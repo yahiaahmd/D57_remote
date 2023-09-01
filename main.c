@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("First updated");
+
+    printf("first update");
+    printf("second update")
 }
